@@ -100,7 +100,7 @@
           <div class="text-center">
             <button
               type="submit"
-              class="bg-yellow-500 text-white font-semibold text-lg px-6 py-3 rounded hover:bg-yellow-600 transition"
+              class="bg-yellow-500 text-white font-semibold text-lg px-6 py-3 rounded cursor-pointer hover:bg-yellow-600 transition"
             >
               Enviar Mensagem
             </button>
@@ -110,7 +110,7 @@
     </section>
 
     <!-- Section Footer -->
-     <section>
+     <section class="">
         <Footer/>
      </section>
 
